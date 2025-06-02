@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+master branch 
+=======
+featureBranch branch 
+>>>>>>> featureBranch
